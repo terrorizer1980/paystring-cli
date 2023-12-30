@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@paystring/utils": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^1.6.3",
     "beautify-json": "^1.0.1",
     "ec-key": "0.0.4",
     "jose": "^3.5.0",
